@@ -1,5 +1,7 @@
 # Coffee Shop Sales Analysis
 
+#### Dashboard: https://public.tableau.com/views/CoffeeShopSalesDashboaord/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Introduction
 
 This project performs a detailed exploratory data analysis (EDA) on a coffee shop's transaction records. The dataset includes item-level sales transactions containing information such as transaction date and time, product category, unit prices, and store locations. The goal is to derive actionable insights to support business strategy—especially regarding product performance, temporal sales patterns, and customer behavior.
